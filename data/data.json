@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "himaaaaa",
+    "lastName": "bindu",
+    "emailId": "aaa@gmail.com",
+    "mobileNumber": "00555000",
+    "address": "ssssffffff",
+    "password": "password",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJoaW1hYWFhYSIsImxhc3ROYW1lIjoiYmluZHUiLCJlbWFpbElkIjoiYWFhQGdtYWlsLmNvbSIsIm1vYmlsZU51bWJlciI6IjAwNTU1MDAwIiwiYWRkcmVzcyI6InNzc3NmZmZmZmYiLCJwYXNzd29yZCI6InBhc3N3b3JkIiwidG9rZW4iOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKbWFYSnpkRTVoYldVaU9pSm9hVzFoWVdGaFlTSXNJbXhoYzNST1lXMWxJam9pWW1sdVpIVWlMQ0psYldGcGJFbGtJam9pWVdGaFFHZHRZV2xzTG1OdmJTSXNJbTF2WW1sc1pVNTFiV0psY2lJNklqQXdOVFUxTURBd0lpd2lZV1JrY21WemN5STZJbk56YzNObVptWm1abVlpTENKd1lYTnpkMjl5WkNJNkluQmhjM04zYjNKa0lpd2lhV0YwSWpveE5qVXhPRFF6TnpZeExDSmxlSEFpT2pFMk5URTROVEE1TmpGOS50VDkwUWQ3SXh2LVB6eHNnSW83WGF4bnFveGZuUmY5SnVMZlJmaEExTHJzIiwiaWF0IjoxNjUxODQzNzc1LCJleHAiOjE2NTE4NTA5NzV9.d6RYOaMYEA-LgcvbyKWoPape2lokbdDeFRqB8m_xHzs"
+  },
+  {
+    "firstName": "b",
+    "lastName": "hb",
+    "emailId": "hb@gmail.com",
+    "mobileNumber": "8888888888",
+    "token": "",
+    "password": "Password",
+    "address": "aaaaa"
+  },
+  {
+    "firstName": "hima",
+    "lastName": "bindu",
+    "emailId": "abcd@gmail.com",
+    "mobileNumber": "00000",
+    "address": "ssss",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJoaW1hIiwibGFzdE5hbWUiOiJiaW5kdSIsImVtYWlsSWQiOiJhYmNkQGdtYWlsLmNvbSIsIm1vYmlsZU51bWJlciI6IjAwMDAwIiwiYWRkcmVzcyI6InNzc3MiLCJpYXQiOjE2NTE4NDMzMTgsImV4cCI6MTY1MTg1MDUxOH0.1m3kmwKP23iTQK3arb9zvAnFL_3kREsTf28CjIYnEUY"
+  },
+  {
+    "firstName": "hima",
+    "lastName": "bindu",
+    "emailId": "abcdef@gmail.com",
+    "mobileNumber": "00000",
+    "address": "ssss",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJoaW1hIiwibGFzdE5hbWUiOiJiaW5kdSIsImVtYWlsSWQiOiJhYmNkZWZAZ21haWwuY29tIiwibW9iaWxlTnVtYmVyIjoiMDAwMDAiLCJhZGRyZXNzIjoic3NzcyIsImlhdCI6MTY1MTg0MzcyNCwiZXhwIjoxNjUxODUwOTI0fQ.uaqE-RlCgZwdOlgLVgqJ7xUUEC3zudbmLheF7cb0gm0"
+  },
+  {
+    "firstName": "hima",
+    "lastName": "bindu",
+    "emailId": "jjjj@gmail.com",
+    "mobileNumber": "00000",
+    "address": "ssss",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJoaW1hIiwibGFzdE5hbWUiOiJiaW5kdSIsImVtYWlsSWQiOiJqampqQGdtYWlsLmNvbSIsIm1vYmlsZU51bWJlciI6IjAwMDAwIiwiYWRkcmVzcyI6InNzc3MiLCJpYXQiOjE2NTE4NDQxMTYsImV4cCI6MTY1MTg1MTMxNn0.OBx4O6OlRUKBiSzeF3ER10KbxweB9ctL0GFTDJxQbWc"
+  }
+]
